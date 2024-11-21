@@ -1,3 +1,5 @@
+LINK VIDEO DE FUNCIONAMENTO --> 
+
 # Criação de Ambiente de Desenvolvimento na Azure VM
 
 Este projeto documenta a criação de uma máquina virtual (VM) no Azure, configurada como um ambiente de desenvolvimento para aplicações Android utilizando Android Studio. Abaixo, detalhamos todo o processo para a criação e configuração da VM, incluindo redes, segurança e ferramentas de desenvolvimento instaladas.
