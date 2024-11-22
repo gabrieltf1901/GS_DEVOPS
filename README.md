@@ -64,7 +64,7 @@ Este repositório documenta o processo de configuração e execução de duas VM
 
 java -jar <seu-projeto>.jar
 
-      - Verifique o banco de dados Oracle usando o application.properties no projeto.
+- Verifique o banco de dados Oracle usando o application.properties no projeto.
 
 4. Testar a Aplicação:
 
@@ -83,7 +83,7 @@ Use o terminal para se conectar à VM:
 
 ssh adminuser@<IP_PÚBLICO_DA_VM>
 
-    - Insira a senha configurada no Azure.
+- Insira a senha configurada no Azure.
   
   3. Configuração na VM:
 
@@ -96,7 +96,7 @@ sudo mv android-studio /opt/
 echo 'export PATH=$PATH:/opt/android-studio/bin' >> ~/.bashrc
 source ~/.bashrc
 
-    - Execute o Android Studio:
+- Execute o Android Studio:
 
 studio.sh
 
@@ -116,10 +116,10 @@ spring.datasource.password=<SENHA>
 
 5. Justificativas
    
-  1. Azure: Plataforma flexível e segura para ambientes de desenvolvimento.
-  2. Windows Server e Ubuntu: Atendem aos requisitos de backend e frontend com     estabilidade e ferramentas adequadas.
-  3. IntelliJ IDEA e Android Studio: Ferramentas líderes de mercado com ampla      documentação e suporte para desenvolvimento.
-  4. Oracle Database: Solução robusta e confiável para aplicações corporativas     com alto volume de dados.
+  - Azure: Plataforma flexível e segura para ambientes de desenvolvimento.
+  - Windows Server e Ubuntu: Atendem aos requisitos de backend e frontend com     estabilidade e ferramentas adequadas.
+  - IntelliJ IDEA e Android Studio: Ferramentas líderes de mercado com ampla      documentação e suporte para desenvolvimento.
+  - Oracle Database: Solução robusta e confiável para aplicações corporativas     com alto volume de dados.
 
 
 
